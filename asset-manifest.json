@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.b948aecc.css",
+    "main.js": "/React-Portfolio/static/js/main.88fc2d29.js",
+    "static/media/deve14.png": "/React-Portfolio/static/media/deve14.e1a76cebdf46623c22a6.png",
+    "static/media/hobby2.jpeg": "/React-Portfolio/static/media/hobby2.13c6af079072a49b839c.jpeg",
+    "static/media/skill3.png": "/React-Portfolio/static/media/skill3.6bcfa7609268394b132e.png",
+    "static/media/deve9.png": "/React-Portfolio/static/media/deve9.25f25751792e7cd56fbc.png",
+    "static/media/deve8.jpg": "/React-Portfolio/static/media/deve8.6d262db91cd495c39bbd.jpg",
+    "static/media/skill1.png": "/React-Portfolio/static/media/skill1.6b0a17945db7f675181a.png",
+    "static/media/skill5.jpg": "/React-Portfolio/static/media/skill5.006c4977649e7608bbf5.jpg",
+    "static/media/deve11.jpg": "/React-Portfolio/static/media/deve11.bd2dddd184c0973341e1.jpg",
+    "static/media/deve12.jpg": "/React-Portfolio/static/media/deve12.810f3dabff1134f4f745.jpg",
+    "static/media/deve16.png": "/React-Portfolio/static/media/deve16.c6de0c44389573b9fb4c.png",
+    "static/media/edu2.jpg": "/React-Portfolio/static/media/edu2.4ba3b1c1a0407251e170.jpg",
+    "static/media/pro1.jpg": "/React-Portfolio/static/media/pro1.2341a0d5c0852049a0bd.jpg",
+    "static/media/pro2.jpg": "/React-Portfolio/static/media/pro2.d23ffc148f4836955dbc.jpg",
+    "static/media/hobby1.jpg": "/React-Portfolio/static/media/hobby1.ec3664fcee938a452d95.jpg",
+    "static/media/exp2.jpg": "/React-Portfolio/static/media/exp2.3353b1e37f18b12ae190.jpg",
+    "static/media/deve15.jpg": "/React-Portfolio/static/media/deve15.02f2333aa3fc2f6375cb.jpg",
+    "static/media/exp1.jpg": "/React-Portfolio/static/media/exp1.8a91ee3542513948b7d1.jpg",
+    "static/media/edu1.jpg": "/React-Portfolio/static/media/edu1.86bbcc37e30046d3e12e.jpg",
+    "static/media/deve13.png": "/React-Portfolio/static/media/deve13.3c1fa9229d93d872f20b.png",
+    "static/media/deve10.jpg": "/React-Portfolio/static/media/deve10.8f5570b14f566ea88655.jpg",
+    "static/media/skill4.jpg": "/React-Portfolio/static/media/skill4.04b61b0b1dd0bf555ffc.jpg",
+    "static/media/myself1.jpg": "/React-Portfolio/static/media/myself1.4a00ccefb15db0621e8d.jpg",
+    "static/media/deve7.jpg": "/React-Portfolio/static/media/deve7.73411e4171513b0f097d.jpg",
+    "static/media/myself2.webp": "/React-Portfolio/static/media/myself2.f115cb7a3f00de7dcfa0.webp",
+    "index.html": "/React-Portfolio/index.html",
+    "main.b948aecc.css.map": "/React-Portfolio/static/css/main.b948aecc.css.map",
+    "main.88fc2d29.js.map": "/React-Portfolio/static/js/main.88fc2d29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b948aecc.css",
+    "static/js/main.88fc2d29.js"
+  ]
+}
